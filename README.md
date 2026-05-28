@@ -118,24 +118,37 @@ I actively share knowledge on **LinkedIn** and publish notebooks on **Kaggle**, 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jayanavya&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=A855F7&icon_color=F59E0B&text_color=ffffff&bg_color=0D1117" alt="GitHub Stats"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayanavya&theme=radical" alt="Profile Details"/>
+
+<img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Jayanavya?cardType=github&theme=radical&preferLogin=false" alt="GitHub Stats"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=Jayanavya&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=F59E0B&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayanavya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanavya&theme=react-dark&bg_color=0D1117&color=A855F7&line=F59E0B&point=ffffff&hide_border=true" alt="Activity Graph"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayanavya&theme=radical" alt="Top Languages by Repo"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayanavya&theme=radical" alt="GitHub Stats Summary"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayanavya&theme=react-dark&bg_color=0D1117&color=A855F7&line=F59E0B&point=ffffff&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
 <!-- ══════════════ GITHUB TROPHIES ══════════════ -->
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Jayanavya&theme=radical&no-frame=true&no-bg=false&margin-w=6&margin-h=6&column=4&row=2" alt="GitHub Trophies"/>
+| 🏅 Achievement | 📊 Details |
+|:---|:---|
+| 🗓️ **GitHub Member** | Active since 2024 — 1 year of consistent contributions |
+| 💻 **Total Commits** | 92+ commits across public & private repositories |
+| 🔀 **Pull Requests** | 4 PRs submitted — collaborative development |
+| 🌐 **Repositories** | 22 public repositories spanning AI, ML & Data Science |
+| 🤝 **Contributed To** | Contributed to 24+ different repositories |
+| 📓 **Jupyter Expert** | Primary language: Jupyter Notebook & Python |
 
 </div>
+
+> 💡 *GitHub Trophies are temporarily unavailable as the trophy service (ryo-ma/github-profile-trophy) is currently paused. The achievements table above reflects real data from your GitHub profile.*
 
 ---
 
