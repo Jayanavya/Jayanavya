@@ -27,9 +27,8 @@
 
 > These are self-initiated, hands-on projects built to deepen expertise in Agentic AI, LLMs, and applied ML. Each reflects real implementation work — not just theory.
 
-### 🤖 1. Agentic RAG Pipeline — Document Intelligence System
+### 🤖 1. UK Life Navigator — Custom RAG Advisor
 
-> UK Navigator — Custom RAG Advisor
 End-to-end RAG system that answers questions about UK visas, jobs, and housing rights, grounded in official sources.
 
 Tech: Google Gemini 1.5 Flash · ChromaDB · SentenceTransformers (all-MiniLM-L6-v2) · Streamlit · Python
