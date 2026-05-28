@@ -29,12 +29,13 @@
 
 ### 🤖 1. Agentic RAG Pipeline — Document Intelligence System
 
-> Multi-agent retrieval-augmented generation system that answers complex queries over large document corpora.
+> UK Navigator — Custom RAG Advisor
+End-to-end RAG system that answers questions about UK visas, jobs, and housing rights, grounded in official sources.
 
-- **Tech:** LangChain · LangGraph · OpenAI GPT-4 · FAISS · Python
-- **What I built:** Agent orchestration with tool-use, memory management, and iterative reasoning loops
-- **Learning outcome:** Practical understanding of RAG architecture, vector stores, and multi-hop retrieval
-- 🔗 [View Repository](https://github.com/Jayanavya)
+Tech: Google Gemini 1.5 Flash · ChromaDB · SentenceTransformers (all-MiniLM-L6-v2) · Streamlit · Python
+What I built: Custom chunking and embedding pipeline, cosine similarity retrieval with domain filtering, dual interfaces (web UI + terminal), and a system prompt that enforces source-grounded answers
+Learning outcome: Hands-on experience with the full RAG stack — document chunking strategy, vector stores, embedding models, and LLM prompt design
+- 🔗 [View Repository] https://github.com/Jayanavya/UK_Navigator_AI.git
 
 ---
 
