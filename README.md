@@ -23,19 +23,6 @@
 
 ---
 
-## 💼 Work Experience
-
-| Period | Role | Organisation | Key Contributions |
-|---|---|---|---|
-| 2024 – Present | **AI Engineer** | Freelance / Contract (UK) | Built end-to-end agentic AI pipelines using LangChain, LangGraph & CrewAI; delivered RAG systems for document Q&A at production scale |
-| 2023 – 2024 | **ML Engineer** | Project-based (Remote) | Developed NLP classification models with HuggingFace Transformers; fine-tuned LLMs for domain-specific tasks; deployed via REST APIs |
-| 2022 – 2023 | **Data Analyst / Data Scientist** | Contract Role (UK) | Delivered predictive models using Scikit-Learn & TensorFlow; built dashboards and automated reporting pipelines using Python & SQL |
-| 2021 – 2022 | **Junior Data Analyst** | Entry-level (UK) | Data wrangling, EDA, and visualisation; supported ML teams with feature engineering using Pandas & NumPy |
-
-> 📌 *Full employment details, references, and project deliverables available on request.*
-
----
-
 ## 🚀 Featured Projects
 
 ### 🤖 1. Agentic RAG Pipeline — Document Intelligence System
