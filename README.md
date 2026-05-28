@@ -12,7 +12,7 @@
 
 ## 👩‍💻 Jaya Navya Earni — AI Engineer
 
-> **AI Engineer** based in **Watford, UK** · **4+ years** building production AI systems · Actively seeking roles in **AI Engineering, ML Engineering & Data Science**
+> **AI Engineer** based in **Watford, UK** · MSc Data Science with Distinction · CPD Certified in Agentic AI · Actively seeking roles in **AI Engineering, ML Engineering & Data Science**
 
 | | |
 |---|---|
@@ -23,26 +23,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Personal Projects
+
+> These are self-initiated, hands-on projects built to deepen expertise in Agentic AI, LLMs, and applied ML. Each reflects real implementation work — not just theory.
 
 ### 🤖 1. Agentic RAG Pipeline — Document Intelligence System
 
 > Multi-agent retrieval-augmented generation system that answers complex queries over large document corpora.
 
 - **Tech:** LangChain · LangGraph · OpenAI GPT-4 · FAISS · Python
-- **Highlights:** Agent orchestration with tool-use, memory, and iterative reasoning loops
-- **Outcome:** Reduced manual document review time by ~70% in a pilot deployment
+- **What I built:** Agent orchestration with tool-use, memory management, and iterative reasoning loops
+- **Learning outcome:** Practical understanding of RAG architecture, vector stores, and multi-hop retrieval
 - 🔗 [View Repository](https://github.com/Jayanavya)
 
 ---
 
 ### 🧠 2. Multi-Agent Workflow with CrewAI & MCP
 
-> Autonomous multi-agent system using CrewAI and Model Context Protocol for task delegation and coordination.
+> Autonomous multi-agent system using CrewAI and Model Context Protocol (MCP) for task delegation and coordination.
 
 - **Tech:** CrewAI · MCP · AutoGen · Python · LangChain
-- **Highlights:** Agents with distinct roles (researcher, writer, reviewer) collaborating on structured tasks
-- **Outcome:** End-to-end agentic automation with minimal human-in-the-loop intervention
+- **What I built:** Agents with distinct roles (researcher, writer, reviewer) collaborating on structured tasks
+- **Learning outcome:** Deep familiarity with agent orchestration frameworks and inter-agent communication patterns
 - 🔗 [View Repository](https://github.com/Jayanavya)
 
 ---
@@ -52,8 +54,8 @@
 > Fine-tuned BERT-based model for multi-class text classification on a domain-specific dataset.
 
 - **Tech:** HuggingFace Transformers · PyTorch · Scikit-Learn · Python
-- **Highlights:** Custom tokenisation pipeline, training loop with early stopping, evaluation metrics dashboard
-- **Outcome:** Achieved 91% F1 score on held-out test set
+- **What I built:** End-to-end pipeline — tokenisation, fine-tuning, evaluation, and inference
+- **Learning outcome:** Hands-on experience with transformer fine-tuning, evaluation metrics, and model comparison
 - 🔗 [View on Kaggle](https://www.kaggle.com/jayanavya)
 
 ---
@@ -63,8 +65,8 @@
 > Systematic framework for testing, scoring, and comparing LLM outputs across prompt variants.
 
 - **Tech:** OpenAI API · Python · Pandas · Jupyter
-- **Highlights:** Automated prompt versioning, A/B evaluation, cost tracking per token
-- **Outcome:** Standardised prompt development workflow adopted across 3 client projects
+- **What I built:** Automated prompt versioning, A/B evaluation harness, cost and token tracking
+- **Learning outcome:** Structured approach to prompt design and quantitative LLM output evaluation
 - 🔗 [View Repository](https://github.com/Jayanavya)
 
 ---
