@@ -34,7 +34,7 @@ End-to-end RAG system that answers questions about UK visas, jobs, and housing r
 Tech: Google Gemini 1.5 Flash · ChromaDB · SentenceTransformers (all-MiniLM-L6-v2) · Streamlit · Python
 What I built: Custom chunking and embedding pipeline, cosine similarity retrieval with domain filtering, dual interfaces (web UI + terminal), and a system prompt that enforces source-grounded answers
 Learning outcome: Hands-on experience with the full RAG stack — document chunking strategy, vector stores, embedding models, and LLM prompt design
-- 🔗 [View Repository] https://github.com/Jayanavya/UK_Navigator_AI.git
+- 🔗 [View Repository](https://github.com/Jayanavya/UK_Navigator_AI.git)
 
 ---
 
